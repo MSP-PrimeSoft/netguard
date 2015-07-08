@@ -1,0 +1,600 @@
+------------------------------------------------------------
+08 July 2015 01:57:51 PM
+_Default @ HttpContext.Current.User.Identity.Name  : 
+PRIMESOFT\skolla 
+ 
+
+------------------------------------------------------------
+08 July 2015 01:57:51 PM
+_Default @  Dns.GetHostName() : 
+SRAVANK-PC 
+ 
+
+------------------------------------------------------------
+08 July 2015 01:57:51 PM
+_Default @  Dns.GetHostEntry(Request.ServerVariables[]).HostName : 
+SRAVANK-PC.primesoft.local 
+ 
+
+------------------------------------------------------------
+08 July 2015 01:57:51 PM
+_Default @  System.Net.NetworkInformation.IPGlobalProperties.GetIPGlobalProperties().DomainName : 
+primesoft.local 
+ 
+
+------------------------------------------------------------
+08 July 2015 01:57:51 PM
+_Default @ Environment.UserDomainName : 
+PRIMESOFT 
+ 
+
+------------------------------------------------------------
+08 July 2015 01:57:51 PM
+_Default @ userName : 
+PRIMESOFT\skolla 
+ 
+
+------------------------------------------------------------
+08 July 2015 01:57:51 PM
+_Default @ btnLogin_Click  : 
+Thread was being aborted. 
+    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at LoginControl.Login.btnLogin_Click(Object sender, EventArgs e) in C:\Users\skolla\Documents\Visual Studio 2010\Projects\LoginControl\Login.aspx.cs:line 91
+
+------------------------------------------------------------
+08 July 2015 01:57:51 PM
+_Default @ HttpContext.Current.User.Identity.Name  : 
+PRIMESOFT\skolla 
+ 
+
+------------------------------------------------------------
+08 July 2015 01:57:51 PM
+_Default @  Dns.GetHostName() : 
+SRAVANK-PC 
+ 
+
+------------------------------------------------------------
+08 July 2015 01:57:51 PM
+_Default @  Dns.GetHostEntry(Request.ServerVariables[]).HostName : 
+SRAVANK-PC.primesoft.local 
+ 
+
+------------------------------------------------------------
+08 July 2015 01:57:51 PM
+_Default @  System.Net.NetworkInformation.IPGlobalProperties.GetIPGlobalProperties().DomainName : 
+primesoft.local 
+ 
+
+------------------------------------------------------------
+08 July 2015 01:57:51 PM
+_Default @ Environment.UserDomainName : 
+PRIMESOFT 
+ 
+
+------------------------------------------------------------
+08 July 2015 01:57:51 PM
+_Default @ userName : 
+PRIMESOFT\skolla 
+ 
+
+------------------------------------------------------------
+08 July 2015 01:57:51 PM
+_Default @ btnLogin_Click  : 
+Thread was being aborted. 
+    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at LoginControl.Login.btnLogin_Click(Object sender, EventArgs e) in C:\Users\skolla\Documents\Visual Studio 2010\Projects\LoginControl\Login.aspx.cs:line 91
+
+------------------------------------------------------------
+08 July 2015 01:57:51 PM
+Logout @ Page_Load  : 
+Thread was being aborted. 
+    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at LoginControl.Logout.Page_Load(Object sender, EventArgs e) in C:\Users\skolla\Documents\Visual Studio 2010\Projects\LoginControl\Logout.aspx.cs:line 48
+
+------------------------------------------------------------
+08 July 2015 01:57:51 PM
+_Default @ btnLogin_Click  : 
+Thread was being aborted. 
+    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at LoginControl.Login.btnLogin_Click(Object sender, EventArgs e) in C:\Users\skolla\Documents\Visual Studio 2010\Projects\LoginControl\Login.aspx.cs:line 145
+
+------------------------------------------------------------
+08 July 2015 01:57:51 PM
+Logout @ Page_Load  : 
+Thread was being aborted. 
+    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at LoginControl.Logout.Page_Load(Object sender, EventArgs e) in C:\Users\skolla\Documents\Visual Studio 2010\Projects\LoginControl\Logout.aspx.cs:line 48
+
+------------------------------------------------------------
+08 July 2015 01:57:51 PM
+MasterPage_MasterPage @ Page_Load  : 
+Thread was being aborted. 
+    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at LoginControl.MasterPage.MainMaster.Page_Load(Object sender, EventArgs e) in C:\Users\skolla\Documents\Visual Studio 2010\Projects\LoginControl\MasterPage\MainMaster.Master.cs:line 93
+
+------------------------------------------------------------
+08 July 2015 01:57:51 PM
+Logout @ Page_Load  : 
+Thread was being aborted. 
+    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at LoginControl.Logout.Page_Load(Object sender, EventArgs e) in C:\Users\skolla\Documents\Visual Studio 2010\Projects\LoginControl\Logout.aspx.cs:line 50
+
+------------------------------------------------------------
+08 July 2015 01:57:51 PM
+MasterPage_MasterPage @ Page_Load  : 
+Thread was being aborted. 
+    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at LoginControl.MasterPage.MainMaster.Page_Load(Object sender, EventArgs e) in C:\Users\skolla\Documents\Visual Studio 2010\Projects\LoginControl\MasterPage\MainMaster.Master.cs:line 93
+
+------------------------------------------------------------
+08 July 2015 01:57:51 PM
+Logout @ Page_Load  : 
+Thread was being aborted. 
+    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at LoginControl.Logout.Page_Load(Object sender, EventArgs e) in C:\Users\skolla\Documents\Visual Studio 2010\Projects\LoginControl\Logout.aspx.cs:line 50
+
+------------------------------------------------------------
+08 July 2015 01:57:51 PM
+MasterPage_MasterPage @ Page_Load  : 
+Thread was being aborted. 
+    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at LoginControl.MasterPage.MainMaster.Page_Load(Object sender, EventArgs e) in C:\Users\skolla\Documents\Visual Studio 2010\Projects\LoginControl\MasterPage\MainMaster.Master.cs:line 93
+
+------------------------------------------------------------
+08 July 2015 01:57:51 PM
+Logout @ Page_Load  : 
+Thread was being aborted. 
+    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at LoginControl.Logout.Page_Load(Object sender, EventArgs e) in C:\Users\skolla\Documents\Visual Studio 2010\Projects\LoginControl\Logout.aspx.cs:line 50
+
+------------------------------------------------------------
+08 July 2015 01:57:51 PM
+MasterPage_MasterPage @ Page_Load  : 
+Thread was being aborted. 
+    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at LoginControl.MasterPage.MainMaster.Page_Load(Object sender, EventArgs e) in C:\Users\skolla\Documents\Visual Studio 2010\Projects\LoginControl\MasterPage\MainMaster.Master.cs:line 93
+
+------------------------------------------------------------
+08 July 2015 01:57:51 PM
+Logout @ Page_Load  : 
+Thread was being aborted. 
+    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at LoginControl.Logout.Page_Load(Object sender, EventArgs e) in C:\Users\skolla\Documents\Visual Studio 2010\Projects\LoginControl\Logout.aspx.cs:line 50
+
+------------------------------------------------------------
+08 July 2015 01:57:51 PM
+MasterPage_MasterPage @ Page_Load  : 
+Thread was being aborted. 
+    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at LoginControl.MasterPage.MainMaster.Page_Load(Object sender, EventArgs e) in C:\Users\skolla\Documents\Visual Studio 2010\Projects\LoginControl\MasterPage\MainMaster.Master.cs:line 93
+
+------------------------------------------------------------
+08 July 2015 01:57:51 PM
+Logout @ Page_Load  : 
+Thread was being aborted. 
+    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at LoginControl.Logout.Page_Load(Object sender, EventArgs e) in C:\Users\skolla\Documents\Visual Studio 2010\Projects\LoginControl\Logout.aspx.cs:line 50
+
+------------------------------------------------------------
+08 July 2015 01:57:51 PM
+MasterPage_MasterPage @ Page_Load  : 
+Thread was being aborted. 
+    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at LoginControl.MasterPage.MainMaster.Page_Load(Object sender, EventArgs e) in C:\Users\skolla\Documents\Visual Studio 2010\Projects\LoginControl\MasterPage\MainMaster.Master.cs:line 93
+
+------------------------------------------------------------
+08 July 2015 01:57:51 PM
+Logout @ Page_Load  : 
+Thread was being aborted. 
+    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at LoginControl.Logout.Page_Load(Object sender, EventArgs e) in C:\Users\skolla\Documents\Visual Studio 2010\Projects\LoginControl\Logout.aspx.cs:line 50
+
+------------------------------------------------------------
+08 July 2015 01:57:51 PM
+MasterPage_MasterPage @ Page_Load  : 
+Thread was being aborted. 
+    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at LoginControl.MasterPage.MainMaster.Page_Load(Object sender, EventArgs e) in C:\Users\skolla\Documents\Visual Studio 2010\Projects\LoginControl\MasterPage\MainMaster.Master.cs:line 93
+
+------------------------------------------------------------
+08 July 2015 01:57:51 PM
+Logout @ Page_Load  : 
+Thread was being aborted. 
+    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at LoginControl.Logout.Page_Load(Object sender, EventArgs e) in C:\Users\skolla\Documents\Visual Studio 2010\Projects\LoginControl\Logout.aspx.cs:line 50
+
+------------------------------------------------------------
+08 July 2015 01:57:51 PM
+MasterPage_MasterPage @ Page_Load  : 
+Thread was being aborted. 
+    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at LoginControl.MasterPage.MainMaster.Page_Load(Object sender, EventArgs e) in C:\Users\skolla\Documents\Visual Studio 2010\Projects\LoginControl\MasterPage\MainMaster.Master.cs:line 93
+
+------------------------------------------------------------
+08 July 2015 01:57:51 PM
+Logout @ Page_Load  : 
+Thread was being aborted. 
+    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at LoginControl.Logout.Page_Load(Object sender, EventArgs e) in C:\Users\skolla\Documents\Visual Studio 2010\Projects\LoginControl\Logout.aspx.cs:line 50
+
+------------------------------------------------------------
+08 July 2015 02:18:29 PM
+_Default @ btnLogin_Click  : 
+Thread was being aborted. 
+    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at LoginControl.Login.btnLogin_Click(Object sender, EventArgs e) in C:\Users\skolla\Documents\Visual Studio 2010\Projects\LoginControl\Login.aspx.cs:line 145
+
+------------------------------------------------------------
+08 July 2015 02:18:29 PM
+Logout @ Page_Load  : 
+Thread was being aborted. 
+    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at LoginControl.Logout.Page_Load(Object sender, EventArgs e) in C:\Users\skolla\Documents\Visual Studio 2010\Projects\LoginControl\Logout.aspx.cs:line 48
+
+------------------------------------------------------------
+08 July 2015 02:18:29 PM
+_Default @ HttpContext.Current.User.Identity.Name  : 
+PRIMESOFT\skolla 
+ 
+
+------------------------------------------------------------
+08 July 2015 02:18:29 PM
+_Default @  Dns.GetHostName() : 
+SRAVANK-PC 
+ 
+
+------------------------------------------------------------
+08 July 2015 02:18:29 PM
+_Default @  Dns.GetHostEntry(Request.ServerVariables[]).HostName : 
+SRAVANK-PC.primesoft.local 
+ 
+
+------------------------------------------------------------
+08 July 2015 02:18:29 PM
+_Default @  System.Net.NetworkInformation.IPGlobalProperties.GetIPGlobalProperties().DomainName : 
+primesoft.local 
+ 
+
+------------------------------------------------------------
+08 July 2015 02:18:29 PM
+_Default @ Environment.UserDomainName : 
+PRIMESOFT 
+ 
+
+------------------------------------------------------------
+08 July 2015 02:18:29 PM
+_Default @ userName : 
+PRIMESOFT\skolla 
+ 
+
+------------------------------------------------------------
+08 July 2015 02:18:29 PM
+_Default @ btnLogin_Click  : 
+Thread was being aborted. 
+    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at LoginControl.Login.btnLogin_Click(Object sender, EventArgs e) in C:\Users\skolla\Documents\Visual Studio 2010\Projects\LoginControl\Login.aspx.cs:line 91
+
+------------------------------------------------------------
+08 July 2015 02:18:29 PM
+Logout @ Page_Load  : 
+Thread was being aborted. 
+    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at LoginControl.Logout.Page_Load(Object sender, EventArgs e) in C:\Users\skolla\Documents\Visual Studio 2010\Projects\LoginControl\Logout.aspx.cs:line 48
+
+------------------------------------------------------------
+08 July 2015 02:18:29 PM
+EmailLandingPage @ Page_Load  : 
+Thread was being aborted. 
+    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at LoginControl.EmailLandingPage.Page_Load(Object sender, EventArgs e) in C:\Users\skolla\Documents\Visual Studio 2010\Projects\LoginControl\EmailLandingPage.aspx.cs:line 40
+
+------------------------------------------------------------
+08 July 2015 02:18:29 PM
+ChangePassword @ btnChangePassword_Click  : 
+Thread was being aborted. 
+    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at LoginControl.ChangePassword.btnChangePassword_Click(Object sender, EventArgs e) in C:\Users\skolla\Documents\Visual Studio 2010\Projects\LoginControl\ChangePassword.aspx.cs:line 57
+
+------------------------------------------------------------
+08 July 2015 02:18:29 PM
+_Default @ btnLogin_Click  : 
+Thread was being aborted. 
+    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at LoginControl.Login.btnLogin_Click(Object sender, EventArgs e) in C:\Users\skolla\Documents\Visual Studio 2010\Projects\LoginControl\Login.aspx.cs:line 145
+
+------------------------------------------------------------
+08 July 2015 02:18:29 PM
+Logout @ Page_Load  : 
+Thread was being aborted. 
+    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at LoginControl.Logout.Page_Load(Object sender, EventArgs e) in C:\Users\skolla\Documents\Visual Studio 2010\Projects\LoginControl\Logout.aspx.cs:line 48
+
+------------------------------------------------------------
+08 July 2015 02:18:29 PM
+_Default @ btnLogin_Click  : 
+Thread was being aborted. 
+    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at LoginControl.Login.btnLogin_Click(Object sender, EventArgs e) in C:\Users\skolla\Documents\Visual Studio 2010\Projects\LoginControl\Login.aspx.cs:line 145
+
+------------------------------------------------------------
+08 July 2015 02:18:29 PM
+_Default @ btnLogin_Click  : 
+Thread was being aborted. 
+    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at LoginControl.Login.btnLogin_Click(Object sender, EventArgs e) in C:\Users\skolla\Documents\Visual Studio 2010\Projects\LoginControl\Login.aspx.cs:line 145
+
+------------------------------------------------------------
+08 July 2015 02:18:29 PM
+Logout @ Page_Load  : 
+Thread was being aborted. 
+    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at LoginControl.Logout.Page_Load(Object sender, EventArgs e) in C:\Users\skolla\Documents\Visual Studio 2010\Projects\LoginControl\Logout.aspx.cs:line 48
+
+------------------------------------------------------------
+08 July 2015 02:18:29 PM
+_Default @ HttpContext.Current.User.Identity.Name  : 
+PRIMESOFT\skolla 
+ 
+
+------------------------------------------------------------
+08 July 2015 02:18:29 PM
+_Default @  Dns.GetHostName() : 
+SRAVANK-PC 
+ 
+
+------------------------------------------------------------
+08 July 2015 02:18:29 PM
+_Default @  Dns.GetHostEntry(Request.ServerVariables[]).HostName : 
+SRAVANK-PC.primesoft.local 
+ 
+
+------------------------------------------------------------
+08 July 2015 02:18:29 PM
+_Default @  System.Net.NetworkInformation.IPGlobalProperties.GetIPGlobalProperties().DomainName : 
+primesoft.local 
+ 
+
+------------------------------------------------------------
+08 July 2015 02:18:29 PM
+_Default @ Environment.UserDomainName : 
+PRIMESOFT 
+ 
+
+------------------------------------------------------------
+08 July 2015 02:18:29 PM
+_Default @ userName : 
+PRIMESOFT\skolla 
+ 
+
+------------------------------------------------------------
+08 July 2015 02:18:29 PM
+_Default @ btnLogin_Click  : 
+Thread was being aborted. 
+    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at LoginControl.Login.btnLogin_Click(Object sender, EventArgs e) in C:\Users\skolla\Documents\Visual Studio 2010\Projects\LoginControl\Login.aspx.cs:line 91
+
+------------------------------------------------------------
+08 July 2015 02:18:29 PM
+_Default @ btnLogin_Click  : 
+Thread was being aborted. 
+    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at LoginControl.Login.btnLogin_Click(Object sender, EventArgs e) in C:\Users\skolla\Documents\Visual Studio 2010\Projects\LoginControl\Login.aspx.cs:line 145
+
+------------------------------------------------------------
+08 July 2015 02:31:16 PM
+_Default @ btnLogin_Click  : 
+Thread was being aborted. 
+    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at LoginControl.Login.btnLogin_Click(Object sender, EventArgs e) in C:\Users\skolla\Documents\Visual Studio 2010\Projects\LoginControl\Login.aspx.cs:line 145
+
+------------------------------------------------------------
+08 July 2015 02:31:16 PM
+Logout @ Page_Load  : 
+Thread was being aborted. 
+    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at LoginControl.Logout.Page_Load(Object sender, EventArgs e) in C:\Users\skolla\Documents\Visual Studio 2010\Projects\LoginControl\Logout.aspx.cs:line 48
+
+------------------------------------------------------------
+08 July 2015 02:51:32 PM
+_Default @ btnLogin_Click  : 
+Thread was being aborted. 
+    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at LoginControl.Login.btnLogin_Click(Object sender, EventArgs e) in C:\Users\skolla\Documents\Visual Studio 2010\Projects\LoginControl\Login.aspx.cs:line 145
+
+------------------------------------------------------------
+08 July 2015 02:51:32 PM
+Logout @ Page_Load  : 
+Thread was being aborted. 
+    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at LoginControl.Logout.Page_Load(Object sender, EventArgs e) in C:\Users\skolla\Documents\Visual Studio 2010\Projects\LoginControl\Logout.aspx.cs:line 48
+

@@ -1,0 +1,297 @@
+﻿body{
+	background:#E9EAED;
+    font-family: Verdana,Arial,"Microsoft Sans Serif";
+    margin: 0 auto;
+    padding: 0;
+    color: #333;
+    font-family: Arial;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: normal;
+}
+
+.tblClass input[type="text"] {
+    border: 1px solid #caccd3;
+    height: 20px;
+    width: 92%;
+}
+
+.tblClass td {
+    padding-top: 5px !important;
+}
+
+input[type="submit"]{
+	border-style: none;
+    border-color: inherit;
+    border-width: medium;
+    width: 50%;
+	padding: 0%;	
+	background: #169CE3;
+	font-family: 'Open Sans', sans-serif;
+	color: #ECECEC;
+	-webkit-text-shadow: 0px 0px 3px #000;
+	-moz-text-shadow: 0px 0px 3px #000;
+	-o-text-shadow: 0px 0px 3px #000;
+	-ms-text-shadow: 0px 0px 3px #000;
+	font-size: 16px;
+	outline: none;
+	cursor: pointer;
+	border-radius: 5px;
+	transition: 0.5s;
+	-webkit-appearance:none;
+	-webkit-transition: 0.5s;
+	-moz-transition: 0.5s;
+	-o-transition: 0.5s;
+	-ms-transition: 0.5s;
+	height: 25px; 
+	}
+
+.master-main {
+    background: none repeat scroll 0 0 #f2f6f9;
+    margin: 0 auto;
+    width: 960px;
+}
+
+.tab_con_wid
+{
+	width:100%;
+	background-color: #FFFFFF;
+}
+
+.masterPage-main{
+   width:960px;
+   margin:0 auto;
+   background:#E0E9EF; 
+   }
+
+
+.redcolor
+{
+    color:Red;
+    font-size:12px;
+}
+.dropDownClass
+{
+   border: 1px solid #caccd3;
+    height: 24px;
+    width: 65%;
+    font-size: 12px;
+}
+
+.boldClass{ font-weight:bold;}        
+        
+.pageheading {
+    color: #616A6B;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+.LoginHeading
+{
+    text-align:center;
+    font-size:28px;
+    background-color: #336699; 
+    z-index: 100;
+    color:#ffffff;
+    padding:8px;  
+    font-family: "Bree Serif",serif; azimuth             
+    font-weight: 300;
+    line-height: 34px;
+    margin-bottom: 10px;
+    text-shadow: 1px 1px 0 rgba(255, 255, 255, 1);
+}
+        
+.labelClass
+{
+    font-size:14px;
+    vertical-align:middle;                
+    padding-left: 24px; 
+    color: #787878;
+    font-family: "Open Sans",sans-serif;            
+    font-weight: 600; 
+}
+        
+.tab_con_wid
+{
+	width:100%;
+	background-color: #FFFFFF;
+}
+#header
+{
+	padding-left: 0px;
+	font-weight: bold;
+	vertical-align: middle;
+	color: #f0f8ff;
+	font-family: Arial, 'Microsoft Sans Serif';
+	text-align: left;
+	height: 60px;
+	background-repeat: repeat;
+	
+	  background: #2f99d5;
+}
+
+
+.header_title
+{
+	font-size: 15pt;
+	font-family: Verdana;
+	font-weight: bold;
+	color: #ffffff;
+	padding-left: 10px;
+}
+
+a.top_but
+{
+	color: White;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 11px;
+	padding-left: 4px;
+}
+a.top_but:hover
+{
+	color: White;
+	font-size: 11px;
+	text-decoration: underline;
+}
+a.top_but1
+{
+	/*color: #336699; */
+	color:#fff;
+	text-decoration: none;
+	font-size: 16px;
+	 font-weight:normal !important;
+}
+a.top_but1:hover
+{	
+	font-size: 16px;
+	text-decoration: underline;
+	font-weight: bold;
+	color:#fff !important;	
+}
+a
+{
+	font-weight: bold;
+	color: #036;
+	text-decoration: none;
+	font-family: Arial,Verdana;
+	font-size: 12px;
+}
+.greenColor
+{
+    color: #21a957;
+}
+
+.main-wrapper {
+    padding: 20px;
+}
+
+/* For Body Table*/
+.BodyTable
+{	
+	border-right: snow thin solid;
+	border-top: snow thin solid;
+	border-left: snow thin solid;
+	border-bottom: snow thin solid;
+	width:100%;
+	text-align:left;
+	vertical-align:top;	
+	
+}
+
+/* Search block Border */
+.SearchBlock
+{
+	
+	text-align: center;
+	padding: 3px 0 3px 0;
+	width: 100%;
+	font-size: 12px;
+}
+
+.panelroundbg { color:#000; }
+.panelroundbg a{ color:#000; text-decoration:underline;}
+.panelroundbg a:hover{ color:#000; text-decoration:none;}
+
+.grid
+{
+	background-color: #f5f5f5;
+}
+.gridViewItem
+{
+	text-align: left;
+}
+
+.gridViewItem1
+{
+	text-align: left;	
+}
+
+.gridViewItemControl
+{
+	text-align: left;	
+	width:22%;
+}
+.gridViewHeader
+{
+	text-align: left;
+	color: #ffffff;
+	font-family: Verdana;
+	font-size: 11px;
+	font-weight: bold;
+	background-color: #169CE3; 
+}
+
+.gridViewHeaderTest
+{
+	text-align: left;
+	font-family: Arial,Verdana,Helvitica;
+	font-size: 11px;
+	font-weight: bold;
+	background-color: #ffffff;
+	border-bottom: red thick solid;
+	border-right-width: thick;
+}
+
+.gridViewPaging
+{
+	text-align: center;
+	color: White;
+	font-family: Arial,Verdana,Helvitica;
+	font-size: 11px;
+	font-weight: bold;
+	background-color: #a9a9a9; 
+}
+
+.gridViewFooter
+{
+	text-align: left;
+	color: Black;
+	font-family: Arial,Verdana,Helvitica;
+	font-size: 11px;
+
+	background-color: #a9a9a9;
+}
+
+.gridViewFooterForAutoComplete
+{
+	text-align: left;
+	color: White;
+	font-family: Arial,Verdana,Helvitica;
+	
+	background-color: #a9a9a9;
+}
+
+.gridViewFooterPaging
+{
+	text-align: center;
+	color: black;
+	font-family: Verdana;
+	font-size: 11px;
+	font-weight: bold; 
+	background-color: #a9a9a9;
+}
+
+.inputfield {
+border: 1px solid #caccd3;
+}

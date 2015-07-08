@@ -1,0 +1,126 @@
+
+
+.back
+{ 
+	background-color: #32AAE4;
+	width: 100%;
+	height: 30px;
+	background-repeat: repeat;
+	
+}
+
+
+.menuLeft
+{
+	text-align:left;
+	float:left;
+	font-size: 16px !important;
+	height:26px;	
+}
+
+
+.menuControl
+{
+	font-size:13px;
+	font-family: sans-serif, Tahoma, Verdana, Geneva, Arial, Helvetica;
+	font-weight:bold;
+	text-align:left;
+	width:60px;
+	padding-left:5px;
+	color:White;
+	height:26px;
+	
+}
+.menuControlItem
+{
+	
+	font-size:16px;
+	font-family: sans-serif, Tahoma, Verdana, Geneva, Arial, Helvetica;
+	font-weight:bold;
+	text-align:left;	
+	height:26px;
+	padding-left:5px;
+	color:White;
+}
+
+.menu
+{
+	
+	font-size: 13px;
+	height:26px;
+}
+
+.menuControlDynamic
+{
+	background-color:#336699;
+	font-size:13px;
+	font-family: sans-serif, Tahoma, Verdana, Geneva, Arial, Helvetica;
+	font-weight:normal;
+	text-align:left;
+	color:White;
+	height:26px;
+	border-bottom:solid 1px #1A4D81;
+	padding-left:5px;
+}
+
+.menuControlHover
+{
+	background-color: #1A4D81;
+	font-size: 13px;
+	font-family: sans-serif, Tahoma, Verdana, Geneva, Arial, Helvetica;
+	font-weight: normal;
+	text-align: left;
+	color:White;
+	width:100%;
+	height:26px;
+	
+}
+
+.menuControlStaticHover
+{
+	background-color: #336699;
+	font-size: 13px;
+	font-family: sans-serif, Tahoma, Verdana, Geneva, Arial, Helvetica;
+	font-weight: bold;
+	text-align: left;	
+	height:26px;
+	padding-left:5px;
+	color:White;
+}
+
+.menuControlStaticHover:hover
+{
+	
+	font-size: 13px;
+	font-family: sans-serif, Tahoma, Verdana, Geneva, Arial, Helvetica;
+	font-weight: bold;
+	text-align: left;	
+	height:26px;
+	padding-left:5px;
+	color:White;
+	
+}
+
+.menuControlSub
+{
+	background-color:#336699;
+	border-bottom:solid 1px #1A4D81;
+	font-size: 13px;
+	height:26px;
+	
+}
+#Menu1 a.static {
+    border-style: none;    
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+    text-decoration: none;
+}
+
+#Menu1 {
+    height: 14px !important;
+    width: 100% !important;
+}
+
+#mTopMenu a.static {
+    padding-left: 10px !important;  
+}
